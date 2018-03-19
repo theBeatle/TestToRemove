@@ -11,6 +11,8 @@ namespace ConsoleApp18
         static void Main(string[] args)
         {
             Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
         }
     }
 }
